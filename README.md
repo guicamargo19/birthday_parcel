@@ -15,8 +15,10 @@ Aplicação de contador regressivo em JavaScript e uso de animação na página.
     <p>Ícones utilizados para mídias sociais no rodapé.</p>
     <li><b>SASS</b></li><br>
     <p>Utilização de SASS, linguagem de extensão CSS.</p>
-    <li><b>Parcel</b></li><br>
+    <li><b>Metodologia BEM</b></li><br>
     <p>Boas práticas de programação com metodologia BEM visando melhor manutenção do código.</p>
+    <li><b>Parcel</b></li><br>
+    <p>Ferramenta de bundling (empacotamento) de código JavaScript e outros recursos relacionados, como CSS, HTML, imagens e muitos mais.</p>
 </ul>
     
     

@@ -1,8 +1,13 @@
-# Página Contagem regressiva para aniversário
+# Contador regressivo
 
-Página que apresenta uma contagem regressiva para um evento e uso de animação na página. Foi desenvolvida em **HTML**, **CSS** e **JavaScript** e **Bootstrap Icons**. Desenvolvimento do projeto focado em performance com uso do pré-processador de CSS **SASS** e também do **Parcel** como empacotador da aplicação.
+<img src="./src/images/contador.png">
 
-Este projeto foi realizado com a aplicação da **Metodologia BEM** em toda sua estrutura, buscando aplicar as melhores práticas de programação para desenvolvimento web.
+Página que apresenta uma contagem regressiva para um evento e uso de animação na página. Foi desenvolvida em **HTML** e
+**CSS** com **JavaScript** e **Bootstrap Icons**. Desenvolvimento do projeto focado em performance com uso do
+pré-processador de CSS **SASS** e também do **Parcel** como empacotador da aplicação.
+
+Este projeto foi realizado com a aplicação da **Metodologia BEM** em toda sua estrutura, buscando aplicar as melhores
+práticas de programação para desenvolvimento web.
 
 Projeto desenvolvido no curso de Full Stack Python da EBAC - Escola Britânica de Artes Criativas e Tecnologia.
 
@@ -32,10 +37,6 @@ e então rodar o comando **npm install** novamente.
 
 ### Executar o projeto
 
-Para executar o projeto, execute o comando:
-
-  **``npm start``**
-
 No arquivo package.json, em scripts, é possível designar os comandos desejados para execução do projeto em ambiente de desenvolvimento e produção.
 
     "scripts": {
@@ -51,6 +52,8 @@ Para ambiente de produção, utilizamos o comando build, porém, devemos nos ate
 
   **``npm run build``**
 
+A pasta "dist" será criada automaticamente com os arquivos para produção.
+
 ## 🛠️Ferramentas utilizadas para construção do projeto
 
 * **HTML** - Linguagem de marcação utilizada na construção de páginas na Web.
@@ -59,7 +62,7 @@ Para ambiente de produção, utilizamos o comando build, porém, devemos nos ate
 * **JavaScript** - Linguagem de programação interpretada estruturada, de alto nível com tipagem dinâmica fraca e multiparadigma.
 * **SASS** - Pré-processador CSS, "Syntactically Awesome Style Sheets" é uma linguagem de folhas de estilo.
 * **Metodologia BEM** - Block Element Modifier, é uma forma de organizar o código CSS para solucionar problemas frequentes no desenvolvimento web.
-* **Parcel** - Empacotador de aplicações web, focado na experiência do desenvolvedor, de performance rápida utilizando processamento multicore, sem a necessidade de configuração.
+* **Parcel** - Empacotador de aplicações web, de performance rápida utilizando processamento multicore, sem a necessidade de configuração.
 
 ## ✒️ Autor
 
